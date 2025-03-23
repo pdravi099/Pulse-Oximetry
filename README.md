@@ -1,5 +1,5 @@
 # Pulse-Oximetry
-Design and Implementation of Analog Frontend of Pulse Oximetry.
+Design and Implementation of a Pulse Oximetry.
 
 The design goal of this project is to implement the digital functions of the pulse oximetry method. This approach is widely used to monitor a person’s oxygen blood saturation. 
 
